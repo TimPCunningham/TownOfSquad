@@ -1,6 +1,0 @@
-main: io.github.timpcunningham.TownOfSquad.TownOfSquad
-name: TownOfSquad
-version: 0.1.0
-api-version: 1.15.2
-description: Town of Salem but for squad
-authors: [Kendrick, Tim]
